@@ -1,2 +1,2 @@
 # Client-TCP
-Demo client TCP en c++
+Demo client TCP en C++
